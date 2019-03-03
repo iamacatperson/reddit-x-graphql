@@ -39,11 +39,11 @@ class Home extends Component {
 		const sortByListings = `${sortBy}Listings`;
 		let timeIntervalProperty = "";
 
-		const query = `{ reddit { subreddit(name: "${searchQuery}"){ ${sortByListings}(limit: 50, ${timeIntervalProperty}) { title author { username } url score numComments } } } }`;
-
 		if(hasTimeInterval) {
 			timeIntervalProperty = `timeInterval: ${timeInterval}`;
 		}
+
+		const query = `{ reddit { subreddit(name: "${searchQuery}"){ ${sortByListings}(limit: 50, ${timeIntervalProperty}) { title author { username } url score numComments } } } }`;
 
 		this.setState({
             error: null
