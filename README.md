@@ -28,7 +28,7 @@ hit enter. This will copy all the files from this repo down to your computer.
 * Search Subreddits
 * Browse Subreddits
 * Sort Subreddits by: "Hot", "New", "Controversial",  "Top", and "Rising"
-* Sort "Top" and Controversial" subreddits into time ranges
+* Sort "Top" and "Controversial" subreddits into time ranges
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
