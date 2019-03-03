@@ -1,15 +1,15 @@
 {
-  "main.css": "/reddit-x-graphql/static/css/main.21403ab8.chunk.css",
-  "main.js": "/reddit-x-graphql/static/js/main.0240975e.chunk.js",
-  "main.js.map": "/reddit-x-graphql/static/js/main.0240975e.chunk.js.map",
+  "main.css": "/reddit-x-graphql/static/css/main.712e1f56.chunk.css",
+  "main.js": "/reddit-x-graphql/static/js/main.99c6af2a.chunk.js",
+  "main.js.map": "/reddit-x-graphql/static/js/main.99c6af2a.chunk.js.map",
   "runtime~main.js": "/reddit-x-graphql/static/js/runtime~main.71b88f24.js",
   "runtime~main.js.map": "/reddit-x-graphql/static/js/runtime~main.71b88f24.js.map",
   "static/css/2.29d00e14.chunk.css": "/reddit-x-graphql/static/css/2.29d00e14.chunk.css",
   "static/js/2.b93b30fe.chunk.js": "/reddit-x-graphql/static/js/2.b93b30fe.chunk.js",
   "static/js/2.b93b30fe.chunk.js.map": "/reddit-x-graphql/static/js/2.b93b30fe.chunk.js.map",
   "index.html": "/reddit-x-graphql/index.html",
-  "precache-manifest.73523e7a9d0ea153b0abd10c3335657c.js": "/reddit-x-graphql/precache-manifest.73523e7a9d0ea153b0abd10c3335657c.js",
+  "precache-manifest.13f71affa98957fb79b9b9b87f0442ee.js": "/reddit-x-graphql/precache-manifest.13f71affa98957fb79b9b9b87f0442ee.js",
   "service-worker.js": "/reddit-x-graphql/service-worker.js",
   "static/css/2.29d00e14.chunk.css.map": "/reddit-x-graphql/static/css/2.29d00e14.chunk.css.map",
-  "static/css/main.21403ab8.chunk.css.map": "/reddit-x-graphql/static/css/main.21403ab8.chunk.css.map"
+  "static/css/main.712e1f56.chunk.css.map": "/reddit-x-graphql/static/css/main.712e1f56.chunk.css.map"
 }
