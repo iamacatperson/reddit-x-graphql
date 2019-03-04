@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/reddit-x-graphql/precache-manifest.13f71affa98957fb79b9b9b87f0442ee.js"
+  "/reddit-x-graphql/precache-manifest.7cdbe68bc0a2677741fe638c35db4541.js"
 );
 
 workbox.clientsClaim();
